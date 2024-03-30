@@ -3,7 +3,9 @@
 Designed a comprehensive database management system for corporate travel in order to provide a one-stop platform for automating the travel management of the companies. This model covers two major workflows of business travel of corporate employees. 
 1.	Assigning the raised travel requests to the concerned managers and processing of the requests.
    [Workflow 1](https://github.com/Vyshnavi153/Corporate-Travel-Management-System/blob/main/Workflow%201.png?raw=true)
-2.	To help manage the travel and expenses of employees on their business trips.
+  	![image](https://github.com/Vyshnavi153/Corporate-Travel-Management-System/assets/36602177/052eae95-6e89-4840-8ed6-c7063d60e0af)
+
+3.	To help manage the travel and expenses of employees on their business trips.
    [Workflow 2](https://github.com/Vyshnavi153/Corporate-Travel-Management-System/blob/main/Workflow%202.png?raw=true)
   	 
 Following are included in the database design:
