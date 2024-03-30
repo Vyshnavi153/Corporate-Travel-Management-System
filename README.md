@@ -7,6 +7,8 @@ Designed a comprehensive database management system for corporate travel in orde
 
 3.	To help manage the travel and expenses of employees on their business trips.
    [Workflow 2](https://github.com/Vyshnavi153/Corporate-Travel-Management-System/blob/main/Workflow%202.png?raw=true)
+  	![image](https://github.com/Vyshnavi153/Corporate-Travel-Management-System/assets/36602177/3b640059-e23f-48e2-bd0d-14324d1c8075)
+
   	 
 Following are included in the database design:
 + Employees can raise travel requests and are allowed to book their trips according their preferences.
